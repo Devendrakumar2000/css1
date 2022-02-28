@@ -1,0 +1,27 @@
+.a{
+         color: rgb(255, 0, 0);
+         font-size: 37px;    
+         letter-spacing: 0;
+}
+.b{
+    color: rgb(255, 0, 0);
+    font-style: italic;
+    font-size: "20px";
+}
+.c{
+    font-size:12px;
+}
+.c1{
+        color: brown;
+}
+.c4{
+    color: brown;
+    font-style: italic;
+    text-decoration: underline;
+}
+.d{
+    letter-spacing: 1ch;
+}
+.e{
+    color: brown;
+}
